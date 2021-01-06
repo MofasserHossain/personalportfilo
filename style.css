@@ -52,7 +52,9 @@ section.top-section {
 .top-section {
   padding-top: 100px;
 }
-
+.left-content {
+  margin-top: 50px;
+}
 .left-content h3 {
   font-size: 50px;
   text-transform: uppercase;
@@ -76,7 +78,7 @@ section.top-section {
 }
 
 .right-content .img {
-  width: 400px;
+  width: 500px;
   margin-left: 100px;
 }
 
