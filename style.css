@@ -3,15 +3,19 @@
   margin: 0;
   padding: 0;
 }
+
 body {
   font-family: "Poppins", sans-serif;
 }
+
 a {
   text-decoration: none;
 }
+
 img {
   width: 100%;
 }
+
 .container {
   width: 85%;
   margin: 0 auto;
@@ -22,19 +26,23 @@ img {
   width: 50%;
   float: left;
 }
+
 /* nav */
 
 nav {
   padding: 20px 50px;
 }
+
 nav ul {
   list-style: none;
   float: right;
 }
+
 nav ul li {
   float: left;
   padding: 10px 20px;
 }
+
 nav ul li a {
   text-decoration: none;
   display: inline-block;
@@ -42,19 +50,25 @@ nav ul li a {
   text-transform: uppercase;
   font-weight: bold;
 }
+
 /* top section */
+
 section {
   height: 90vh;
 }
+
 section.top-section {
   height: 80vh;
 }
+
 .top-section {
   padding-top: 100px;
 }
+
 .left-content {
   margin-top: 50px;
 }
+
 .left-content h3 {
   font-size: 50px;
   text-transform: uppercase;
@@ -63,10 +77,12 @@ section.top-section {
   margin-bottom: 20px;
   font-family: "Oswald", sans-serif;
 }
+
 .left-content h3 span {
   color: orange;
   font-weight: bold;
 }
+
 .left-content a {
   display: inline-block;
   padding: 10px 40px;
@@ -85,6 +101,7 @@ section.top-section {
 .top-section .bio-content {
   width: 60%;
 }
+
 .top-section .bio-content p {
   font-size: 15px;
 }
@@ -93,10 +110,12 @@ section.top-section {
 section.second-section {
   height: 80vh;
 }
+
 .second-section {
   background-color: #f8f9fa;
   padding-top: 120px;
 }
+
 .second-section .right-content .img {
   margin-left: 0;
 }
@@ -105,13 +124,16 @@ section.second-section {
 section.skill-section {
   height: 90vh;
 }
+
 .skill-section {
   padding: 70px 0;
   margin-top: 20px;
 }
+
 .skill-div {
   padding: 70px 0 0 0;
 }
+
 .skill-section h1 {
   text-align: center;
   font-weight: bold;
@@ -120,9 +142,11 @@ section.skill-section {
   color: #f76660;
   text-transform: uppercase;
 }
+
 .skill-section h1 span {
   color: #444444;
 }
+
 .skill-section .skill {
   float: left;
   width: 26%;
@@ -162,36 +186,42 @@ section.skill-section {
   padding: 90px 0;
   background-color: #f8f9fa;
 }
+
 .latest-work h1 {
   font-size: 40px;
   font-family: "Oswald", sans-serif;
   text-align: center;
 }
+
 .latest-work .work-content {
   margin: 20px 0;
 }
+
 .latest-work .work {
   width: 30%;
   float: left;
-  overflow: hidden;
   padding: 10px;
   border-radius: 20px;
   margin: 0 5px;
   background-color: #fff;
   box-shadow: 0 0 20px #ddd;
 }
+
 .latest-work .work-content {
   padding: 70px 0;
 }
+
 .latest-work .work h3 {
   color: #3e668e;
   font-size: 21px;
   padding: 15px 0;
   font-weight: 800;
 }
+
 .latest-work h1 span {
   color: tomato;
 }
+
 .latest-work .work p {
   font-size: 15px;
   font-weight: 400;
@@ -215,15 +245,16 @@ section.work-inquiry {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .work-inquiry .main-div span {
   color: #fff;
   font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
 }
+
 .work-inquiry .main-div a {
   float: right;
-  overflow: hidden;
   padding: 10px 40px;
   background-color: #f59660;
   color: #fff;
@@ -239,18 +270,21 @@ section.social-links {
   margin-top: 20px;
   padding-bottom: 50px;
 }
+
 .social-links h2 {
   font-size: 22px;
   font-weight: bold;
   font-family: "Oswald", sans-serif;
   color: #444444;
 }
+
 .social-links h1 {
   font-size: 35px;
   font-weight: 900;
   color: #3e668e;
   margin: 10px 0;
 }
+
 .social-links img {
   width: 30px;
   margin: 10px;
